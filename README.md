@@ -22,7 +22,12 @@ Dream_PHP_Project/
 - Login system using PHP sessions  
 - Post, update, and delete dreams  
 - Upload and preview images for each dream  
-- View all dreams posted by the logged-in user  
+- View all dreams posted by the logged-in user
+
+## ScreenShot
+![image](https://github.com/user-attachments/assets/3a6309bd-6cb5-4e17-b747-75a9d77eb0f4)
+
+
 
 ## Technologies Used
 
