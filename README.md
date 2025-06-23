@@ -14,7 +14,7 @@ Dream_PHP_Project/
 - register.php  
 - update_dream.php  
 - uploads/ (folder to store uploaded images)  
-- README.md  
+  
 
 ## Features
 
