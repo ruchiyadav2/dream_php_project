@@ -33,6 +33,5 @@ Dream_PHP_Project/
 - Git and GitHub for version control  
 
 ## Database Tables
-
-1. `dream_users`
-2.'dreams`
+- `dream_users`
+- `dreams`
